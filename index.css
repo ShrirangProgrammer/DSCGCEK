@@ -62,13 +62,14 @@ section {
 
 nav{
     display: flex;
-    height: 3.5rem;    
+    height: 100px;    
     background: var(--d-black);
     position: fixed;
     top: -1%;
     bottom: 2%;
     z-index: 2;
     box-shadow: var(--box-shadow);
+    width: 100%;
 }
 
 nav > a > img{
